@@ -38,6 +38,19 @@ Built using:
 - `random` module
 - `string` module
 
+### 🪨 Rock Paper Scissor Game (Python)
+
+A 5-round interactive command-line game where:
+- The user plays against the computer
+- The computer randomly selects moves
+- Scores are tracked across rounds
+- Final winner is determined after 5 rounds
+- Option to start or exit the game
+
+Technologies:
+- Python 3
+- `random` module
+
 ---
 
 (More projects coming soon...)
