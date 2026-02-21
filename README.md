@@ -75,8 +75,8 @@ Built using:
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/YOUR_USERNAME  
-LinkedIn: (add your LinkedIn here)
+GitHub: https://github.com/Omar-Adham
+LinkedIn: www.linkedin.com/in/omar-adham
 
 ---
 
